@@ -1,5 +1,3 @@
-Siap. Ini versi yang natural kayak jawaban mahasiswa, nggak terlalu kaku dan tetap sesuai materi modul.
-
 Jawaban Pertanyaan HTML Dasar
 
 1. Apa fungsi deklarasi <!DOCTYPE html> pada dokumen HTML?
